@@ -51,7 +51,23 @@ export const Center = styled.div`
   text-align: center;
 `;
 export const Logo = styled.h1`
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
   font-weight: bold;
+  color: black;
+
+  & {
+    text-decoration: none !important;
+    
+  }
+
+  &:hover {
+    color: gray; // Optional hover effect
+  }
 `;
 
 export const StyledLink = styled(Link)`

@@ -55,7 +55,9 @@ const Navbar = () => {
         </Left>
 
         <Center>
+          <StyledLink to='/'>
           <Logo>Sanikata's Shop</Logo>
+          </StyledLink>
         </Center>
         <Right>
           {!isLoggedIn && (
