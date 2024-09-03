@@ -56,7 +56,7 @@ export const Icon = styled.div`
   margin: 10px;
   transition: all 0.5s ease;
   &:hover {
-    background-color: blue;
+    background-color: none;
     transform: scale(1.3);
   }
 `;

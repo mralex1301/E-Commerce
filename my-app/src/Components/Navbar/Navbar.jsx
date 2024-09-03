@@ -55,8 +55,8 @@ const Navbar = () => {
         </Left>
 
         <Center>
-          <StyledLink to='/'>
-          <Logo>Sanikata's Shop</Logo>
+          <StyledLink to="/">
+            <Logo>Alex's Shop</Logo>
           </StyledLink>
         </Center>
         <Right>
