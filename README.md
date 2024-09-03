@@ -1,5 +1,6 @@
 **﻿ECommerce Project
 **
+
 This project is a full-stack ECommerce application built using React on the frontend and Node.js/Express on the backend. It uses MongoDB as the database, and Stripe for payment processing.
 
 **1. Clone the repository:**
