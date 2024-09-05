@@ -30,3 +30,7 @@ The backend of this application is built using Node.js/Express and can be found 
 routes/: Contains the API routes (e.g., user, product, order routes).
 
 models/: Contains the database schemas/models.
+
+**5. Enjoy**
+
+:) 
